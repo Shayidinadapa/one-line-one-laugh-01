@@ -1,0 +1,1 @@
+{"description":"Writes one funny line to entry.txt for the One Line, One Laugh bounty on make.fun","license":"MIT","main":"main.ts","name":"one-line-one-laugh-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
